@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [positories](positories)
-
 - 📫 How to reach me **shamiul11e@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
