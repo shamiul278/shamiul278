@@ -22,12 +22,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamiul278&show_icons=true&locale=en&layout=compact" alt="shamiul278" /></p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shamiul278&" alt="shamiul278" /></p>
