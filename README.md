@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamiul278&label=Profile%20views&color=0e75b6&style=flat" alt="shamiul278" /> </p>
 
-- 🔭 I’m currently working on [Laravel Football Club Management](https://github.com/Rahageer90/Laravel-Football-Club-Management) [TrackBack](https://github.com/sheikhnajmulhossain/TrackBack)
+- 🔭 I’m currently working on [Laravel Football Club Management](https://github.com/Rahageer90/Laravel-Football-Club-Management), [TrackBack](https://github.com/sheikhnajmulhossain/TrackBack)
 
 - 🌱 I’m currently learning **React.js**
 
